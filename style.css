@@ -803,7 +803,7 @@
 @media screen and (max-width: 768px) {
     #image01 {
         top: -280px;
-        left: 145px;
+        left: 125px;
     }
     #image01 .frame {
         width: 100%; /* Adjust width for mobile view */
